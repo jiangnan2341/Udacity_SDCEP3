@@ -25,3 +25,9 @@ make
 ```
 
 ### Results
+
+I know my code works because I did do some tests. Unfortunately, my workspace starts to have some issue before I got the chance to take screenshots of my results. I tried refresh workspace and even reset data. The problem persists even after reset data and before I introduced any updates. See screenshot below to get the problem detail:
+
+![](workspaceIssue.png)
+
+I only updated the c3-main.cpp file. Hope the reviewer can take my code and run on their side to get proof of my work. Sorry for the trouble. At the same time, I will try to contact support to get the workspace problem fixed.
